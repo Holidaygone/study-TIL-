@@ -72,3 +72,4 @@ __double underscores__
 - __double underscores__
 - ~~cancelline~~
 
+* 줄바꿈 : 3칸 이상 띄어쓰기를 하면 줄이 바뀐다.
