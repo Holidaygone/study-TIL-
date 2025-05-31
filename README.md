@@ -1,6 +1,7 @@
 study-TIL-
 =============
 
+SSAFY 프로젝트 복기 및 기술 스택 학습 기록
 
 https://github.com/namjunemy/TIL 배울만한 사람
 
